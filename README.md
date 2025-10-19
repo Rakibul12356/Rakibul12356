@@ -1,4 +1,7 @@
-## Hi there 👋
+Hi there, I'm Rakibul! 👋
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Junior+Web+Developer;Always+Learning+New+Things;Building+Cool+Projects" alt="Typing SVG" />
+</div>
 
 <!--
 **Rakibul12356/Rakibul12356** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
