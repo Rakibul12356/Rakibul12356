@@ -75,7 +75,7 @@ const rakibulHasan = {
 
 ## 🛠️ Frontend Arsenal
 
-<div align="center">
+<div align="">
 
 ### Core Technologies
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -197,7 +197,7 @@ Eye-catching landing page with parallax effects and micro-interactions.
 - SEO optimized
 
 **⚙️ Built With:**
-`Next.js` `GSAP` `Tailwind CSS` `React Icons`
+`Next.js`  `Tailwind CSS` `React Icons`
 
 </td>
 <td width="50%" valign="top">
@@ -255,13 +255,13 @@ Minimalist portfolio template with stunning animations and transitions.
 
 | Category | Skills |
 |----------|--------|
-| **Frontend Core** | HTML5, CSS3, JavaScript (ES6+), TypeScript |
+| **Frontend Core** | HTML5, CSS3, JavaScript (ES6+) |
 | **React Ecosystem** | React.js, Next.js, React Hooks, Context API |
-| **Styling** | Tailwind CSS, Styled Components, SASS, Material-UI |
-| **Animation** | Framer Motion, GSAP, CSS Animations |
-| **State Management** | Redux, Context API, React Query |
+| **Styling** | Tailwind CSS, Styled Components, SASS, Material-UI ,DaisyUI,Mamba Ui,SadCn|
+| **Animation** | Framer Motion, CSS Animations |
+| **State Management** |  Context API, React Query |
 | **Version Control** | Git, GitHub, GitFlow |
-| **Design Tools** | Figma, Adobe XD, Canva |
+| **Design Tools** | Figma, pixso |
 | **Deployment** | Vercel, Netlify, GitHub Pages |
 
 </div>
