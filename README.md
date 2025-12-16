@@ -1,5 +1,6 @@
 <div align="center">
   
+  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d8dbb52-8727-4be0-a4a0-18f835a00d7f.gif" width="100%" alt="Coding Developer Animation"/>
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Coding Animation"/>
   
   <h1>✨ Rakibul Hasan</h1>
