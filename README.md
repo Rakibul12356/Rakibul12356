@@ -109,7 +109,8 @@ const rakibulHasan = {
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-
+![Cursor](https://img.shields.io/badge/Cursor-1A1A1A?style=for-the-badge&logo=cursor&logoColor=white)
+![Anti-gravity](https://img.shields.io/badge/Anti--gravity-FF69B4?style=for-the-badge&logo=spaceships&logoColor=white)
 </div>
 
 <br/>
