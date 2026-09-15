@@ -148,8 +148,11 @@ const rakibulHasan = {
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rakibul12356&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&count_private=true&include_all_commits=true)](https://github.com/Rakibul12356)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rakibul12356&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8&hide=java,php)](https://github.com/Rakibul12356)
+<!-- GitHub Stats & Top Languages — deploy your own: https://github.com/anuraghazra/github-readme-stats -->
+<a href="https://github.com/Rakibul12356">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rakibul12356&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakibul12356&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8&hide=java,php" />
+</a>
 
 </div>
 
@@ -161,17 +164,25 @@ const rakibulHasan = {
 
 <div align="center">
 
-[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rakibul12356&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true)](https://github.com/Rakibul12356)
+<!-- Contribution Snake — generated via GitHub Actions (never rate limited) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rakibul12356/Rakibul12356/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rakibul12356/Rakibul12356/output/github-contribution-grid-snake.svg" />
+  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/Rakibul12356/Rakibul12356/output/github-contribution-grid-snake-dark.svg" />
+</picture>
 
 </div>
 
 <br/>
 
-## 🏆 GitHub Trophies
+## 🏆 Achievements
 
 <div align="center">
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=Rakibul12356&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=7&row=1)](https://github.com/Rakibul12356)
+![Repos](https://img.shields.io/badge/Public%20Repos-20+-00D9FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)
+![Contributions](https://img.shields.io/badge/Contributions-4%2C200+-00D9FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)
+![Streak](https://img.shields.io/badge/Longest%20Streak-23%20Days-FF6B6B?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)
+![Since](https://img.shields.io/badge/Coding%20Since-2024-00D9FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)
 
 </div>
 
