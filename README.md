@@ -5,7 +5,7 @@
   <h1>✨ Rakibul Hasan</h1>
   <h3>Frontend Developer | React Specialist | UI/UX Enthusiast</h3>
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Frontend+Developer;React+%7C+Next.js+Specialist;Crafting+Beautiful+Interfaces;Pixel+Perfect+Designs" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Frontend+Developer;React+%7C+Next.js+Specialist;Crafting+Beautiful+Interfaces;Pixel+Perfect+Designs" alt="Typing SVG" />
   
 </div>
 
@@ -45,15 +45,15 @@ const rakibulHasan = {
       uiLibraries: ["Material-UI", "Ant Design", "Chakra UI"]
     },
     backend: {
-      runtime: "Node.js",
-      framework: "Express.js",
+      languages: ["Go (Golang)", "Node.js"],
+      frameworks: ["Fiber", "Gin", "Express.js"],
       authentication: "JWT"
     },
-    database: ["MongoDB", "Firebase", "PostgreSQL"],
+    database: ["PostgreSQL", "MongoDB", "Supabase", "Firebase"],
     tools: ["Git", "GitHub", "Figma", "VS Code", "Postman"]
   },
   
-  currentlyLearning: ["Advanced React Patterns", "TypeScript", "Animation Libraries"],
+  currentlyLearning: ["Advanced React Patterns", "TypeScript", "Animation Libraries", "Go Backend"],
   hobbies: ["UI/UX Design", "Open Source", "Tech Blogging"],
   
   philosophy: "Great design is invisible, great code is readable"
@@ -96,10 +96,16 @@ const rakibulHasan = {
 ![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### Backend Knowledge
+### Backend
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Fiber](https://img.shields.io/badge/Fiber-00ACD7?style=for-the-badge&logo=go&logoColor=white)
+
+### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ### Tools & Platform
@@ -109,8 +115,8 @@ const rakibulHasan = {
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-1A1A1A?style=for-the-badge&logo=cursor&logoColor=white)
-![Anti-gravity](https://img.shields.io/badge/Anti--gravity-FF69B4?style=for-the-badge&logo=spaceships&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
 </div>
 
 <br/>
@@ -138,16 +144,17 @@ const rakibulHasan = {
 
 <br/>
 
-
 ## 📊 GitHub Stats
 
 <div align="center">
+
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rakibul12356&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakibul12356&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8&hide=java,php" alt="Top Languages"/>
+
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rakibul12356&theme=react&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Rakibul12356&theme=react&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
@@ -172,11 +179,13 @@ const rakibulHasan = {
 |----------|--------|
 | **Frontend Core** | HTML5, CSS3, JavaScript (ES6+) |
 | **React Ecosystem** | React.js, Next.js, React Hooks, Context API |
-| **Styling** | Tailwind CSS, Styled Components, SASS, Material-UI ,DaisyUI,Mamba Ui,SadCn|
+| **Styling** | Tailwind CSS, Styled Components, SASS, Material-UI, DaisyUI, Mamba UI, ShadCN |
 | **Animation** | Framer Motion, CSS Animations |
-| **State Management** |  Context API, React Query |
+| **State Management** | Context API, React Query |
+| **Backend** | Go (Fiber, Gin), Node.js, Express.js |
+| **Databases** | PostgreSQL, MongoDB, Supabase, Firebase |
 | **Version Control** | Git, GitHub, GitFlow |
-| **Design Tools** | Figma, pixso |
+| **Design Tools** | Figma, Pixso |
 | **Deployment** | Vercel, Netlify, GitHub Pages |
 
 </div>
@@ -187,6 +196,7 @@ const rakibulHasan = {
 
 - 🎨 Building responsive and accessible web interfaces
 - 📚 Learning advanced React patterns and TypeScript
+- 🐹 Exploring Go (Golang) for backend development
 - 🚀 Exploring Web3 and blockchain frontend development
 - 🌟 Contributing to open-source React projects
 - 📝 Writing technical blogs about frontend development
